@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>1.0.0.14</version>
-  <url>https://gongteng79.github.io/SynthesisUpdate/SynthesisUpdate.zip</url>
+  <url>https://synthesisupdate.top/SynthesisUpdate.zip</url>
   <mandatory>false</mandatory>
 </item>
